@@ -41,6 +41,6 @@ A decision tree is one of the supervised machine learning algorithms. This algor
 Scikit-learn is an indispensable part of the Python machine learning toolkit at JPMorgan. It is very widely used across all parts of the bank for classification, predictive analytics, and very many other machine learning tasks.  <br />
 
 ● K-Means implementation: K-Means model is imported from “sklearn.cluster”. Dataset is splitted into training and testing parts . The Elbow plot is plotted for getting appropriate K-value. Training or Fitting of the model by training data.In the testing part cluster is predicted by model for testing data. <br />
-● Decision Tree implementation: Basic EDA is performed .Label encoding. Preparing data by dropping features irrelevant to our analysis. Splitting dataset for training and testing. <br />
-● Importing Decision Tree Classifier from “sklearn.tree”. Training or fitting the model by training data. Predicting label for testing dataset . Evaluating the prediction of model by Classification report and Confusion Matrix. <br />
+<br />
+● Decision Tree implementation: Basic EDA is performed .Label encoding. Preparing data by dropping features irrelevant to our analysis. Splitting dataset for training and testing. Importing Decision Tree Classifier from “sklearn.tree”. Training or fitting the model by training data. Predicting label for testing dataset . Evaluating the prediction of model by Classification report and Confusion Matrix. <br />
 
