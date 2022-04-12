@@ -7,11 +7,11 @@ Winter of Code is a platform where technology enthusiasts come together and cont
 # 1. Exploratory Data Analysis
 Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
 
-● Explored different steps involved in EDA.
-● Basic data exploration: missing values, shape, info.
-● Analysed data through different plots (scatter plots, histograms ).
-● Handling Outliers: Analysed data through Boxplot if any outliers may be present in values of features.
-● Finding correlation between features.
-● Univariate analysis: Label column is analysed by taking individual variable features into consideration.
-● Bivariate analysis : Label column is analysed by taking both variable features into consideration.
-● Normalization and Scaling : Scaling the values present in feature columns to the same range.It is very useful in case of algorithms based on principle of euclidean distance.
+● Explored different steps involved in EDA.  <br />
+● Basic data exploration: missing values, shape, info.  <br />
+● Analysed data through different plots (scatter plots, histograms ).  <br />
+● Handling Outliers: Analysed data through Boxplot if any outliers may be present in values of features.  <br />
+● Finding correlation between features.  <br />
+● Univariate analysis: Label column is analysed by taking individual variable features into consideration.  <br />
+● Bivariate analysis : Label column is analysed by taking both variable features into consideration.  <br />
+● Normalization and Scaling : Scaling the values present in feature columns to the same range.It is very useful in case of algorithms based on principle of euclidean distance.  <br />
