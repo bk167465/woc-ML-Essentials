@@ -27,3 +27,13 @@ The K-means algorithm identifies k number of centroids, and then allocates every
 (Performed this step for multiple iterations until the position of centroids became almost constant). <br />
 ● Testing part: data points splitted for testing part is fitted in the model and predictions are made by model. <br />
 
+# 3. Decision Tree from scratch
+A decision tree is one of the supervised machine learning algorithms. This algorithm can be used for regression and classification problems — yet, is mostly used for classification problems. A decision tree follows a set of if-else conditions to visualize the data and classify it according to the conditions.  <br />
+
+● The different aspects of Decision Tree : Nodes, Splitting, Branch, Entropy, Gini impurity, Information gain Types: Regressor and Classifier , Avoiding Overfitting. <br />
+● Basic EDA is performed on given data to explore its differentaspects. <br />
+● As features contain categorical string type values which will affect our algorithm during calculation so Label Encoder is used to avoid such issues. <br />
+● Preparing the data: As data may contain some information which is irrelevant to our analysis . Such features are dropped. <br />
+● Splitting the dataset for training and testing part (4:1). <br />
+● Methods for entropy and information gain are defined in a class named Decision_tree. <br />
+
