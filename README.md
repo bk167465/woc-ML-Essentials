@@ -15,3 +15,15 @@ Exploratory Data Analysis refers to the critical process of performing initial i
 ● Univariate analysis: Label column is analysed by taking individual variable features into consideration.  <br />
 ● Bivariate analysis : Label column is analysed by taking both variable features into consideration.  <br />
 ● Normalization and Scaling : Scaling the values present in feature columns to the same range.It is very useful in case of algorithms based on principle of euclidean distance.  <br />
+
+# 2. K-Means Clustering from Scratch
+The K-means algorithm identifies k number of centroids, and then allocates every data point to the nearest cluster, while keeping the centroids as small as possible.
+
+
+● Splitted the data for the training and testing part. <br />
+● Randomly initialized four points as centroids of clusters. <br />
+● For the training part: clusters are assigned to the training dataseton the basis of Euclidean distance from randomly assigned centeroids. <br />
+● To reach the correct position of centroids, the mean value of all the data points present in each cluster is assigned to the centroids. <br />
+(Performed this step for multiple iterations until the position of centroids became almost constant). <br />
+● Testing part: data points splitted for testing part is fitted in the model and predictions are made by model. <br />
+
